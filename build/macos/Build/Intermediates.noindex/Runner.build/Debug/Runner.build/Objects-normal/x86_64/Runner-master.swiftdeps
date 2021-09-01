@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.4.2 (swiftlang-1205.0.28.2 clang-1205.0.19.57)"
+options: "b29c8a2ac0f07267bc6cdfd4aa237c3c"
+build_time: [1630525218, 709700000]
+inputs:
+  "/Users/tahakacmaz/flutter_studentapp/macos/Runner/MainFlutterWindow.swift": [1625656365, 635390491]
+  "/Users/tahakacmaz/flutter_studentapp/macos/Runner/AppDelegate.swift": [1625656365, 631105031]
+  "/Users/tahakacmaz/flutter_studentapp/macos/Flutter/GeneratedPluginRegistrant.swift": [1630525197, 3287537]
